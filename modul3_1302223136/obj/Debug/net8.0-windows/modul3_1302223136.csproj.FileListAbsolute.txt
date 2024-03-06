@@ -1,0 +1,16 @@
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\bin\Debug\net8.0-windows\modul3_1302223136.exe
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\bin\Debug\net8.0-windows\modul3_1302223136.deps.json
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\bin\Debug\net8.0-windows\modul3_1302223136.runtimeconfig.json
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\bin\Debug\net8.0-windows\modul3_1302223136.dll
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\bin\Debug\net8.0-windows\modul3_1302223136.pdb
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.Form1.resources
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.csproj.GenerateResource.cache
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.GeneratedMSBuildEditorConfig.editorconfig
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.AssemblyInfoInputs.cache
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.AssemblyInfo.cs
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.csproj.CoreCompileInputs.cache
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.dll
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\refint\modul3_1302223136.dll
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.pdb
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\modul3_1302223136.genruntimeconfig.cache
+D:\1302223136_MOD3_JURNAL_FAL\modul3_1302223136\modul3_1302223136\obj\Debug\net8.0-windows\ref\modul3_1302223136.dll
